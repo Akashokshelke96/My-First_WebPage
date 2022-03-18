@@ -144,7 +144,7 @@ footer .comment {
     font-size: large;
 }
 #titlesection{
-    background:  linear-gradient(pink, yellow) ,url("https://wallpapercave.com/wp/wp5691366.jpg");
+    background:  linear-gradient(rgba(192,22,34,0.8), rgba(0,0,222,0.8)) ,url("https://wallpapercave.com/wp/wp5691366.jpg");
     background-size: cover;
 
 }
