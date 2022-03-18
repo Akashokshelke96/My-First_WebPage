@@ -2,7 +2,10 @@
 p {
     font-size: 18px;
 
+}
 
+body {
+maximum-width: 100%
 }
 
 header {
@@ -121,7 +124,7 @@ footer ul li:last-of-type {
 }
 
 .Content-Section {
-    max-width: 880px;
+    max-width: 80%;
     margin: auto;
 
 }
@@ -139,4 +142,9 @@ iframe {
 footer .comment {
     color: #4CAF50;
     font-size: large;
+}
+#titlesection{
+    background:  linear-gradient(pink, yellow) ,url("https://wallpapercave.com/wp/wp5691366.jpg");
+    background-size: cover;
+
 }
