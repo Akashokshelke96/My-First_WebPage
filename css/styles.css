@@ -27,6 +27,7 @@ header {
 }
 
 body {
+
     font-family: Nunito;
     margin: 0;
 }
@@ -142,6 +143,7 @@ iframe {
 footer .comment {
     color: #4CAF50;
     font-size: large;
+    font-family: Courier, serif;
 }
 #titlesection{
     background: url("https://wallpapercave.com/wp/wp5691366.jpg");
