@@ -8,7 +8,16 @@ body { /* here i have added a background full size images like with no repeat an
     background-image: url("https://cdn.wallpapersafari.com/78/24/N6tf9W.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
-maximum-width: 100%
+    background-size: cover;
+    width: auto;
+
+}
+table:hover{ /* this is to make hover color change */
+    background-color: #e80000;
+}
+tr:nth-child(even){ /* this is to make the EVEN rows of different color */
+    background-color: #80b6ff;
+
 }
 
 header {
