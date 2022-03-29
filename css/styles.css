@@ -4,7 +4,10 @@ p {
 
 }
 
-body {
+body { /* here i have added a background full size images like with no repeat and size 100% "Good Job akash"*/
+    background-image: url("https://cdn.wallpapersafari.com/78/24/N6tf9W.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
 maximum-width: 100%
 }
 
@@ -13,7 +16,7 @@ header {
     color: whitesmoke;
     font-size: 25px;
     /* font-style: italic; */
-    background-color: #2E94CC;
+    background-color: #3a3a3a;
     padding-top: 25px;
     padding-bottom: 24px;
     font-size: 24px;
@@ -42,7 +45,7 @@ article {
 }
 
 .post-author {
-    color: #6c6c6c;
+    color: #1d1d1f;
     font-size: 12px;
     line-height: 18px;
 
@@ -70,7 +73,7 @@ article {
 }
 
 h1 {
-    color: grey;
+    color: #555555;
     font-size: 25px;
     margin: 0;
     font-size: 52px;
@@ -146,7 +149,7 @@ footer .comment {
     font-family: Courier, serif;
 }
 #titlesection{
-    background: url("https://wallpapercave.com/wp/wp5691366.jpg");
+
     background-size: cover;
 
 }
