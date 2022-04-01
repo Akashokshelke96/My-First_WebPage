@@ -28,7 +28,7 @@ header {
     padding-top: 25px;
     padding-bottom: 24px;
     font-size: 24px;
-    letter-spacing: 0.6px;
+    letter-spacing: 0.6px; /* it was not needed but helps sometimes */
     line-height: 30px;
 }
 
@@ -59,7 +59,7 @@ article {
 
 }
 
-.share-post span {
+.share-post span { /*these are the smaller ones and always use them */
     display: block;
     font-size: 18px;
 
